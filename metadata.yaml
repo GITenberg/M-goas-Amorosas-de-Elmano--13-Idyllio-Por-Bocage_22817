@@ -1,0 +1,32 @@
+_repo: M-goas-Amorosas-de-Elmano--13-Idyllio-Por-Bocage_22817
+_version: 0.1.0
+alternative_title: "Máguas Amorosas de Elmano\r\nIdílio Por Bocage"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bocage, Manuel Maria Barbosa du
+    birthdate: 1765
+    deathdate: 1805
+    gutenberg_agent_id: '8542'
+    url: http://www.gutenberg.org/2009/agents/8542
+    wikipedia: http://pt.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22817'
+language: pt
+language_note: This ebook uses a 19th century spelling
+production_note: Produced by Tiago Tejo
+publication_note: "Lisboa:\r\nImpressão Regia\r\n1805"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese poetry'
+title: "Mágoas Amorosas de Elmano\r\nIdyllio Por Bocage"
+url: http://www.gutenberg.org/ebooks/22817
